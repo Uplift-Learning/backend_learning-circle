@@ -1,6 +1,4 @@
-# Your Name
-
-Philip Oyelegbin
+# Philip Oyelegbin
 
 ## About Me
 
