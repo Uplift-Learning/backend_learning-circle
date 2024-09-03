@@ -180,6 +180,10 @@ Meetings are held regularly to discuss progress, share ideas and solve problems 
 Use the Discussions section or the whatsapp group   to ask questions and share your knowledge.
 
 
+Here is a [video](https://drive.google.com/file/d/1vidyRlmzAhQwvbIwxocBlgQE2QoslIjG/view) that explains how to contribute to a project on GitHub.
+
+
+
 Code of conduct
 ---------------
 
