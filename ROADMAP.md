@@ -4,12 +4,12 @@ This document outlines the essential steps and technologies which we believe are
 
 ## 1. [Fundamental Concepts](resources/Fundamental_Concepts.md)
 
-- [ ] **How does the Internet work?**
-- [ ] **What is HTTP?**
-- [ ] **Browsers and how they work**
-- [ ] **DNS and how it works**
-- [ ] **What is a domain name?**
-- [ ] **What is hosting?**
+- [x] **How does the Internet work?**
+- [x] **What is HTTP?**
+- [x] **Browsers and how they work**
+- [x] **DNS and how it works**
+- [x] **What is a domain name?**
+- [x] **What is hosting?**
 
 ## 2.  [Programming Languages](resources/Programming_Languages.md)
 
